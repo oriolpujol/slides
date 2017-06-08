@@ -4,3 +4,4 @@ This repository contains slides for different talks and conferences. The content
 
 At this moment you may find the slides for:
   * LEARN 2017 Barcelona workshop.
+  * REDICE 2017 Barcelona workshop.
